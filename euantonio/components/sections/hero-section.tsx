@@ -36,8 +36,8 @@ export function HeroSection({ onNavigate }: HeroSectionProps) {
               <FolderGit2 className="mr-2 h-4 w-4" />
               View Projects
             </Button>
-            <Button variant="outline" size="lg" asChild>
-              <a href="/cv.pdf" download>
+            <Button variant="outline" size="lg">
+              <a href="/cv.pdf" download className="flex items-center">
                 <Download className="mr-2 h-4 w-4" />
                 Download CV
               </a>

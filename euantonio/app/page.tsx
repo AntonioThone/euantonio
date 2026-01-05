@@ -17,18 +17,7 @@ export default function PortfolioPage() {
   const [currentSection, setCurrentSection] = useState<Section>("hero")
 
   const handleNavigate = (section: Section) => {
-    setCurrentSection(section)"use client"
-
-import { useState } from "react"
-import type { Section } from "@/lib/types"
-import { Navigation } from "@/components/navigation"
-import { HeroSection } from "@/components/sections/hero-section"
-import { AboutSection } from "@/components/sections/about-section"
-import { SkillsSection } from "@/components/sections/skills-section"
-import { ProjectsSection } from "@/components/sections/projects-section"
-import { LabsSection } from "@/components/sections/labs-section"
-…}
-
+    setCurrentSection(section)
   }
 
   const renderSection = () => {
