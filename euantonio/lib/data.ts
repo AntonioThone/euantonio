@@ -145,10 +145,10 @@ export const certifications: Certification[] = [
 export const blogPosts: BlogPost[] = [
   {
     id: "securing-ssh",
-    title: "Securing SSH: Beyond the Basics",
+    title: "Active Directory — The Heart of an IT Infrastructure",
     excerpt:
       "Deep dive into SSH hardening techniques including key management, port knocking, and two-factor authentication implementation.",
-    date: "2025-01-15",
+    date: "2025-08-22",
     readTime: "4 min read",
   },
   {
