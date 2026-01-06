@@ -10,7 +10,7 @@ export function BlogSection() {
           <div className="space-y-4">
             <h2 className="text-3xl md:text-4xl font-bold text-foreground">Blog</h2>
             <p className="text-lg text-muted-foreground">
-              Technical articles and insights on Linux systems administration.
+              Technical articles and insights on systems administration.
             </p>
           </div>
 
