@@ -153,18 +153,18 @@ export const blogPosts: BlogPost[] = [
   },
   {
     id: "bash-automation",
-    title: "Bash Scripting for Automation",
+    title: "DNS and DHCP: Essential Services for an Efficient and Secure Network",
     excerpt:
       "Practical guide to writing robust Bash scripts for system administration tasks with error handling and logging best practices.",
-    date: "2024-12-20",
+    date: "2025-08-27",
     readTime: "12 min read",
   },
   {
     id: "network-troubleshooting",
-    title: "Network Troubleshooting Methodology",
+    title: "Simulando uma Infraestrutura Multissite com Windows Server + Ansible",
     excerpt:
       "Systematic approach to diagnosing network issues using tcpdump, netstat, and other Linux networking tools.",
-    date: "2024-11-10",
+    date: "2025-09-19",
     readTime: "10 min read",
   },
 ]
