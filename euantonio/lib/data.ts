@@ -144,12 +144,12 @@ export const certifications: Certification[] = [
 
 export const blogPosts: BlogPost[] = [
   {
-    id: "securing-ssh",
-    title: "Active Directory — The Heart of an IT Infrastructure",
+    id: "network-troubleshooting",
+    title: "Simulando uma Infraestrutura Multissite com Windows Server + Ansible",
     excerpt:
-      "Deep dive into SSH hardening techniques including key management, port knocking, and two-factor authentication implementation.",
-    date: "2025-08-22",
-    readTime: "4 min read",
+      "Systematic approach to diagnosing network issues using tcpdump, netstat, and other Linux networking tools.",
+    date: "2025-09-19",
+    readTime: "10 min read",
   },
   {
     id: "bash-automation",
@@ -160,11 +160,12 @@ export const blogPosts: BlogPost[] = [
     readTime: "12 min read",
   },
   {
-    id: "network-troubleshooting",
-    title: "Simulando uma Infraestrutura Multissite com Windows Server + Ansible",
+    id: "securing-ssh",
+    title: "Active Directory — The Heart of an IT Infrastructure",
     excerpt:
-      "Systematic approach to diagnosing network issues using tcpdump, netstat, and other Linux networking tools.",
-    date: "2025-09-19",
-    readTime: "10 min read",
+      "Deep dive into SSH hardening techniques including key management, port knocking, and two-factor authentication implementation.",
+    date: "2025-08-22",
+    readTime: "4 min read",
   },
+    
 ]
