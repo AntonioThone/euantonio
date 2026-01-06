@@ -149,7 +149,7 @@ export const blogPosts: BlogPost[] = [
     excerpt:
       "Deep dive into SSH hardening techniques including key management, port knocking, and two-factor authentication implementation.",
     date: "2025-01-15",
-    readTime: "8 min read",
+    readTime: "4 min read",
   },
   {
     id: "bash-automation",

@@ -17,7 +17,7 @@ export function AboutSection() {
               and implementing robust security measures, I help organizations maintain reliable IT infrastructure that
               supports their business goals.
             </p>
-
+            
             <div className="pt-4">
               <h3 className="text-xl font-semibold text-foreground mb-3">Professional Values</h3>
               <ul className="grid grid-cols-1 md:grid-cols-2 gap-3">
